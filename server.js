@@ -56,5 +56,5 @@ app.use((error, req, res, next) => {
 const PORT= process.env.PORT || 8000
 
 app.listen(PORT, () => {
-    console.log('server is running on localhost:8000')
+    console.log(`server is running on localhost:${PORT}`)
 })
