@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "engines": {
-    "node": "v13.10.1"
+    "node": "13.10.1"
   },
   "author": "",
   "license": "ISC",
